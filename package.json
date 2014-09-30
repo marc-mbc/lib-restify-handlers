@@ -1,0 +1,13 @@
+{
+  "name": "lib-restify-handlers",
+  "description": "Api Micro Service common handlers and worker behaviour for restify",
+  "author": "Marc Blando",
+  "email": "marc.blando@engrande.com",
+  "private": true,
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "dependencies": {
+    "restify":                          "2.8.x",
+    "restify-validator":                "0.3.x"
+  }
+}
