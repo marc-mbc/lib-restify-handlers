@@ -4,10 +4,10 @@
   "author": "Marc Blando",
   "email": "marc.blando@engrande.com",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./lib/main",
   "dependencies": {
-    "restify":                          "2.8.x",
-    "restify-validator":                "0.3.x"
+    "restify": "2.8.x",
+    "restify-validator": "0.3.x"
   }
 }
