@@ -1,6 +1,6 @@
 <h1>Restify handlers</h1>
 <p>
-	This module contains some basic configuration and handlers and worker behaviour for restify. It can be improved in order to follow a common standard for the whole company
+	This module contains some basic configuration and handlers and worker behaviour for restify.
 </p>
 
 <p>
